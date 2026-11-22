@@ -157,3 +157,5 @@ tr.total td{border-bottom:0;border-top:2px solid var(--deep);font:700 1.05rem va
 .trust-item p{margin:4px 0 0}
 .trust-item a{color:var(--rose)}
 .tick{flex:none;width:44px;height:44px;border-radius:12px;background:var(--mint);color:var(--berry);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:1.2rem}
+
+.hero .photo { object-position:50% 0%; aspect-ratio:3/4; max-height:92vh; }
